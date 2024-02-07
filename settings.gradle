@@ -1,0 +1,4 @@
+rootProject.name = "Gyde"
+include ':app'
+include ':gydelibrary'
+include ':mylibrary'
